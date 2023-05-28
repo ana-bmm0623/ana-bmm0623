@@ -23,6 +23,6 @@ LinkedIn: https://www.linkedin.com/in/ana-beatriz-marques-moreira-371a62248/
 
 Obrigado por visitar meu repositório GitHub.
 
-![Ana Beatriz Marques' GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-bmm0623&show_icons=true&theme=dark)
+![Ana Beatriz Marques' GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-bmm0623&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-bmm0623&layout=pie&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
