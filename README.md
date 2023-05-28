@@ -8,9 +8,9 @@ Sou um estudante apaixonado por Sistemas de Informação, atualmente cursando mi
 ### Visão geral do repositório
 Este repositório serve como uma plataforma para mostrar meu progresso e crescimento como estudante de Sistemas de Informação. Ele contém vários projetos, tarefas e experimentos que demonstram minhas habilidades em diferentes áreas da disciplina. Aqui está uma breve visão geral do que você pode encontrar aqui:
 
-Java : É um repositório criado para anexar todas os exercícios utilizados para o aprimoramento na linguagem de programação Java;
-Hackaton_agrotins23_agriandhackers: Programa em Java que realiza cálculos do projeto agronômico de irrigação ppor aspersão; 
-Projeto Front-End : Um projeto de um site de lojas de eletrônicos;
+• Java : É um repositório criado para anexar todas os exercícios utilizados para o aprimoramento na linguagem de programação Java;
+• Hackaton_agrotins23_agriandhackers: Programa em Java que realiza cálculos do projeto agronômico de irrigação ppor aspersão; 
+• Projeto Front-End : Um projeto de um site de lojas de eletrônicos;
 
 Sinta-se à vontade para explorar os diferentes projetos e mergulhar no código. Agradeço qualquer feedback, sugestões ou oportunidades de colaboração.
 
