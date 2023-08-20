@@ -23,9 +23,11 @@ Sinta-se à vontade para explorar os diferentes projetos e mergulhar no código.
 ### Entrando em contato
 Se você tiver alguma dúvida, sugestão ou quiser colaborar em um projeto, sinta-se à vontade para entrar em contato comigo. Você pode entrar em contato comigo através dos seguintes canais:
 
-📧 E-mail: marquesmoreiraanabeatriz84@gmail.com
+![image](https://github.com/ana-bmm0623/ana-bmm0623/assets/116691989/e853abcf-0199-4048-b6f5-318d2d3c3a82)
+ E-mail: marquesmoreiraanabeatriz84@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/ana-beatriz-marques-moreira-371a62248/
+![image](https://github.com/ana-bmm0623/ana-bmm0623/assets/116691989/1f127641-e6af-494f-b8b8-5a02bfe63b96)
+LinkedIn: https://www.linkedin.com/in/anabeatrizmarquesmoreira/
 
 Obrigado por visitar meu repositório GitHub.
 
