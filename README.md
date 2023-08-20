@@ -10,11 +10,13 @@ Este repositório serve como uma plataforma para mostrar meu progresso e crescim
 
 • Java : É um repositório criado para anexar todas os exercícios utilizados para o aprimoramento na linguagem de programação Java;
 
-• Hackaton_agrotins23_agriandhackers: Programa em Java que realiza cálculos do projeto agronômico de irrigação ppor aspersão; 
+• Hackaton_agrotins23_agriandhackers: Programa em Java que realiza cálculos do projeto agronômico de irrigação por aspersão; 
 
 • Projeto Front-End : Um projeto de um site de lojas de eletrônicos;
 
 • Estrutura de dados: É um repositório criado a fim de anexar todas os exercícios realizados durante o semestre;
+
+• quarkus-topicos1-2023-2: É um repositório criado a fim de publicar todo o que estudado em sala de aula na disciplina de Tópicos em programação I;
 
 Sinta-se à vontade para explorar os diferentes projetos e mergulhar no código. Agradeço qualquer feedback, sugestões ou oportunidades de colaboração.
 
