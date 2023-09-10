@@ -8,7 +8,7 @@ Sou um estudante apaixonado por Sistemas de Informação, atualmente cursando mi
 ### Visão geral do repositório
 Este repositório serve como uma plataforma para mostrar meu progresso e crescimento como estudante de Sistemas de Informação. Ele contém vários projetos, tarefas e experimentos que demonstram minhas habilidades em diferentes áreas da disciplina. Aqui está uma breve visão geral do que você pode encontrar aqui:
 
-• Java : É um repositório criado para anexar todas os exercícios utilizados para o aprimoramento na linguagem de programação Java;
+• Java : É um repositório criado para anexar todos os exercícios utilizados para o aprimoramento na linguagem de programação Java;
 
 • Hackaton_agrotins23_agriandhackers: Programa em Java que realiza cálculos do projeto agronômico de irrigação por aspersão; 
 
@@ -17,6 +17,8 @@ Este repositório serve como uma plataforma para mostrar meu progresso e crescim
 • Estrutura de dados: É um repositório criado a fim de anexar todas os exercícios realizados durante o semestre;
 
 • quarkus-topicos1-2023-2: É um repositório criado a fim de publicar todo o que estudado em sala de aula na disciplina de Tópicos em programação I;
+
+• estudosPython: É um repositório criado a fim de anexar todos os exercícios utilizados para o aprimoramento na linguagem de programação Python;
 
 Sinta-se à vontade para explorar os diferentes projetos e mergulhar no código. Agradeço qualquer feedback, sugestões ou oportunidades de colaboração.
 
