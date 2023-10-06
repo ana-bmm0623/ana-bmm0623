@@ -1,9 +1,9 @@
 ### ANA BEATRIZ MARQUES MOREIRA
 
-Bem-vindo ao meu repositório GitHub para meus estudos em Sistemas de Informação! Aqui você encontrará uma coleção de projetos e códigos relacionados ao meu curso e explorações pessoais no campo.
+Bem-vindo ao meu repositório GitHub destinado para meus estudos em Sistemas de Informação! Aqui você encontrará uma coleção de projetos e códigos relacionados ao meu curso e explorações pessoais no campo.
 
 ### Sobre mim
-Sou um estudante apaixonado por Sistemas de Informação, atualmente cursando minha graduação na Universidade Estadual do Tocantins (UNITINS). Meus interesses estão no desenvolvimento de software, gerenciamento de banco de dados e análise de dados. Por meio de meus projetos, busco aprimorar minhas habilidades técnicas e contribuir para o mundo da tecnologia em constante evolução.
+Sou uma estudante apaixonada por Sistemas de Informação, atualmente cursando minha graduação na Universidade Estadual do Tocantins (UNITINS). Meus interesses estão no desenvolvimento de software, gerenciamento de banco de dados e análise de dados. Por meio de meus projetos, busco aprimorar minhas habilidades técnicas e contribuir para o mundo da tecnologia em constante evolução.
 
 ### Visão geral do repositório
 Este repositório serve como uma plataforma para mostrar meu progresso e crescimento como estudante de Sistemas de Informação. Ele contém vários projetos, tarefas e experimentos que demonstram minhas habilidades em diferentes áreas da disciplina. Aqui está uma breve visão geral do que você pode encontrar aqui:
