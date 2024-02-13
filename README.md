@@ -37,9 +37,8 @@ Sinta-se à vontade para explorar os diferentes projetos e mergulhar no código.
 <a href="https://github.com/ana-bmm0623">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-bmm0623&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-bmm0623&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- ![Snake animation](https://github.com/ana-bmm0623/ana-bmm0623/blob/output/github-contribution-grid-snake.svg)
 </div>
-
+ 
 ### Entrando em contato
 Se você tiver alguma dúvida, sugestão ou quiser colaborar em um projeto, sinta-se à vontade para entrar em contato comigo. Você pode entrar em contato comigo através dos seguintes canais:
 
